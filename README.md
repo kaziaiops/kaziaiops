@@ -1,20 +1,60 @@
-<h1 align="center">Kazi Yousuf</h1> <p align="center"> Building ShotDeck — an open-source production pipeline for faceless AI video creators.<br> Learning DevOps in public, from Dhaka. </p>
-What I'm building
+<h1 align="center">Kazi Yousuf</h1>
+<p align="center"><b>DevOps Learner • Automation Builder • Open-source Creator</b></p>
+<p align="center">Dhaka, Bangladesh</p>
 
-ShotDeck — a shot-level production tracker for AI-generated video.
+<p align="center">
+  I build practical automation tools, learn cloud and infrastructure in public, and turn what I learn into reusable documentation for others.
+</p>
 
-Making a 40-shot AI video means hundreds of copy-pastes: script to shots, shots to prompts, prompts to images, images to ComfyUI, renders back to a review pile. ShotDeck holds all of it in one place — Project → Shot → Take — and pushes approved shots straight into a local ComfyUI queue.
+---
 
-Built because my brother runs a faceless YouTube channel and the spreadsheet stopped working.
+## 🚀 Featured Project
 
-Next.js · TypeScript · Prisma · SQLite · Tailwind · ComfyUI API
+### [ShotDeck](https://github.com/kaziaiops/ShotDeck)
+A local-first production tracker for faceless AI video workflows. ShotDeck keeps projects, shots, prompts, generation attempts, approvals, and production status organized in one place.
 
-Learning DevOps
+**Stack:** Next.js · TypeScript · React · Prisma · SQLite · Tailwind CSS
 
-Working through the stack from zero, writing notes in Bangla as I go — Linux, networking, Git, Docker, Kubernetes, CI/CD, Terraform, AWS, Prometheus & Grafana.
+> Current focus: validating the local ComfyUI production pipeline before merging it into the default branch.
 
-Goal: a remote DevOps internship in 2027.
+---
 
-Toolbox
-<p> <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,prisma,nodejs,python,docker,kubernetes,aws,terraform,linux,git,githubactions,grafana&perline=8" alt="skills"> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kaziaiops&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziaiops&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165"> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=kaziaiops&theme=tokyonight&hide_border=true" alt="streak"> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kaziaiops&theme=tokyonight&no-frame=true&column=7" alt="trophies"> </p> <p align="center"><i>Dhaka, Bangladesh</i></p>
+## 📚 Learning in Public
+
+| Project | What it is |
+|---|---|
+| [**DevOps 180 Days**](https://github.com/kaziaiops/devops-180-days-program) | My hands-on learning roadmap and progress toward job-ready DevOps / Cloud foundations. |
+| [**DevOps Bangla**](https://github.com/kaziaiops/devops-bangla) | A free Banglish DevOps learning guide covering Linux, networking, Git, Docker, Kubernetes, CI/CD, Terraform, monitoring, and AWS. |
+
+---
+
+## 🛠️ Current Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,githubactions,docker,kubernetes,terraform,aws,python,ts,nextjs,react,nodejs,prisma,grafana&perline=7" alt="Current tools and technologies" />
+</p>
+
+### What I am actively working on
+
+- Building and hardening **ShotDeck** as a real local production tool.
+- Practicing Linux, networking, containers, CI/CD, infrastructure as code, cloud, and observability.
+- Expanding **DevOps Bangla** with practical labs and learner-friendly references.
+- Building a portfolio based on working projects, documentation, and reproducible labs.
+
+---
+
+## 🎯 Direction
+
+I am working toward DevOps / Cloud engineering opportunities while strengthening the fundamentals that matter in real environments: troubleshooting, automation, repeatability, observability, and clear documentation.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaziaiops&show_icons=true&hide_border=true" alt="GitHub stats" />
+</p>
+
+---
+
+<p align="center"><i>Build things. Document the process. Improve the system.</i></p>
